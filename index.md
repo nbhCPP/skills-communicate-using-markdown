@@ -4,3 +4,7 @@
 ``` java
 public String myString = "Hello";  
 ```
+
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
